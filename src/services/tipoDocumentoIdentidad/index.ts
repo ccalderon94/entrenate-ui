@@ -1,0 +1,1 @@
+export { getTipoDocumentoIdentidadSelect } from './tipoDocumentoIdentidad'
